@@ -1,5 +1,5 @@
 @import "compass/css3";
-
+@import 'jekyll-theme-hacker';
 // Emmet article generation line : .col-xs-12.article-wrapper*5>article>a.more[href=#]>{more}^+.img-wrapper>img[src=http://lorempixel.com/150/150/nature]^+h1>Lorem3^+p>Lorem15
 
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
